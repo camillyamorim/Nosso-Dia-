@@ -16,9 +16,12 @@
 }
 
 img {
-  max-width: 50%;
+  border: 0.3rem solid #000;
+  border-radius: 10px;
+  width: 19rem;
   height: auto;
 }
+
 .header {
   background-color: #141414;
   color: #fff;
