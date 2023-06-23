@@ -11,6 +11,9 @@
   font-family: "Open Sans", sans-serif;
 }
 
+.img {
+  text-align: center;
+}
 .header {
   background-color: #141414;
   color: #fff;
