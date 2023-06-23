@@ -11,6 +11,14 @@
   font-family: "Open Sans", sans-serif;
 }
 
+.container {
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
 .header {
   background-color: #141414;
   color: #fff;
