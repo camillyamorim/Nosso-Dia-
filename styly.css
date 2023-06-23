@@ -7,10 +7,8 @@
 }
 
 .container {
-      font-size: 62.5%;
-      font-family: "Open Sans", sans-serif;
-}
-
+  font-size: 62.5%;
+  font-family: "Open Sans", sans-serif;
 }
 
 .header {
@@ -43,6 +41,13 @@
 
 .main-title {
   font-size: 2.5rem;
+}
+
+#video {
+  border: 0.3rem solid #000;
+  border-radius: 10px;
+  width: 19rem;
+  height: auto;
 }
 
 .text-section {
