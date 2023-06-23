@@ -9,10 +9,8 @@
 .container {
  width: 400px;
  margin: 0 auto;
- padding: 20px;
- background-color: #fff;
+ padding: 0px;
  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   font-size: 60.5%;
   font-family: "Open Sans", sans-serif;
 }
